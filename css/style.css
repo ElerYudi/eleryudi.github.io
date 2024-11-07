@@ -1,0 +1,52 @@
+#title{
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    font-family: Arial;
+}
+
+.destaque{
+    background-color: rgb(30, 136, 230);
+    color: rgb(100, 4, 190);
+}
+
+.habilidades{
+    text-decoration: underline dotted;
+}
+
+.educação{
+    text-decoration: line-through;
+}
+
+.hobbies{
+    text-decoration: underline wavy;
+}
+
+p{
+    font-style: italic;
+}
+
+a[href="https://www.linkedin.com/in/éler-yudi-mitani-sotoma-857b0a198/"]{
+    font-size: 90%;
+}
+
+a[href="mailto:eleryudi@alunos.utfpr.edu.br"]{
+    font-size: 90%;
+}
+
+figure{
+    text-align: center;
+}
+
+a:hover{
+    color:red;
+}
+
+
+
+*{
+    color: blue;
+    background-color: hsl(227, 57%, 84%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
